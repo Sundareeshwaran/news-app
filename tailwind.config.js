@@ -5,11 +5,7 @@ module.exports = {
     fontFamily: {
       sans: ['Poppins']
     },
-    extend: {
-      fontSize: {
-        'sm': '0.5rem'
-      }
-    },
+    extend: {}
   },
   plugins: [],
 }
